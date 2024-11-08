@@ -13,21 +13,26 @@ to list the local branches:
 
     git branch
 
+
 to create a branch:
 
     git checkout -b class01
+
 
 to see the latest changes:
 
     git status
 
+
 to exactly see the changes made on a single file:
 
     git diff
 
+
 to stage the changes:
 
     git add <file name>
+
 
 to commit the changes:
 
