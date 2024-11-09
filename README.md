@@ -51,16 +51,16 @@ to push the chnges
 
 to check the branch is clean
 
-   git status
+    git status
 
 to checkout to the main branch
 
-   git checkout main
+    git checkout main
 
 to get the latest changes
 
-   git pull orgin main
+    git pull orgin main
 
 to create new branch
 
-   git checkout -b <branch name>
+    git checkout -b <branch name>
