@@ -38,11 +38,29 @@ to commit the changes:
 
     git commit -m "commit message"
 
+to push the chnges
 
-git push orgin <sorce branch>
+    git push orgin <sorce branch>
 
-   class01 -> main
-     ex = git push orgin class01
+      class01 -> main
+   
+      ex = git push orgin class01
 
 
 ### DAILY
+
+to check the branch is clean
+
+   git status
+
+to checkout to the main branch
+
+   git checkout main
+
+to get the latest changes
+
+   git pull orgin main
+
+to create new branch
+
+   git checkout -b <branch name>
