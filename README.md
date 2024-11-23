@@ -95,7 +95,7 @@ to create new branch
       Two version python (2.X & 3.x)
  
 
- [class 02 11 NOV 2024] (zoomrecording link)
+[class 02 11 NOV 2024] (zoomrecording link)
 
 
         PEP 8 Guidelines
