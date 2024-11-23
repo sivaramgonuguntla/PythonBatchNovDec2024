@@ -72,22 +72,28 @@ to create new branch
 [CLASS 00  04th NOV 2024] (Zoom recording link)
 
    00.DEV SETUP
+
       Installing IDE/EDITOR
+
       Installing Python and local setup
+
       Github access and creating projects
 
 
 [class 01  06th NOV 2024](zoom recording link)
    
       Git commands
+
       markdown syntax
+
       daily acvtivity and usage
 
    01.Introduction
+
       Importance of Python
+
       Two version python (2.X & 3.x)
 
 
-'''
-    hi hello
-'''
+
+    
