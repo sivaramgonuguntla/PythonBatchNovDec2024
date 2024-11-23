@@ -87,7 +87,7 @@ to create new branch
       Importance of Python
       Two version python (2.X & 3.x)
 
-bash
+
 '''
     hi hello
 '''
